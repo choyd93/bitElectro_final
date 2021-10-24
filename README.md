@@ -16,8 +16,12 @@
  ++ JQuery 3.6.0
  ++ Jstl 1.2.x  
  
- # 3. ERD 설계
+# 3. ERD 설계
 ![비트가전](https://user-images.githubusercontent.com/69706762/138577537-0d04f924-6112-4ec3-92db-ae1bbcc5c3d8.png)  
+
+
+# 4. UI 레이아웃
+https://user-images.githubusercontent.com/69706762/138581803-710c3561-4a33-4901-9b78-ea8c89ca4e9d.png
  
  
  
