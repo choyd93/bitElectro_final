@@ -6,15 +6,15 @@
 + 팀프로젝트 3명  
 
 # 2. 사용 기술
-+ Back-end
- ++ JAVA 8
- ++ Oracle 11g
- ++ MyBatis 3.5.7
++ `Back-end`
+++ JAVA 8
+++ Oracle 11g
+++ MyBatis 3.5.7
 
-+ Front-end
- ++ JSP
- ++ JQuery 3.6.0
- ++ Jstl 1.2.x  
++ `Front-end`
+++ JSP
+++ JQuery 3.6.0
+++ Jstl 1.2.x  
  
 # 3. ERD 설계
 ![비트가전](https://user-images.githubusercontent.com/69706762/138577537-0d04f924-6112-4ec3-92db-ae1bbcc5c3d8.png)  
