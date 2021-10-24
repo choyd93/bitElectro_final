@@ -26,11 +26,13 @@
  
  # 4. 실행화면
   ## 쇼핑몰 기능
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/69706762/138582190-828060dc-c26c-4f95-8ec2-9a290b8f4be7.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/69706762/138582366-1a77605e-6fc3-44d8-b4a7-2ffb0cc72ca7.gif)
+
+
 
   ## 관리자 기능
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/69706762/138582213-849ebd01-ea40-4cb2-8f73-aaa07096de1a.gif)
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/69706762/138582364-5c27328a-9dad-4360-ab2b-3abf3970eaf1.gif)
+   
    
  
  # 5. 핵심기능
