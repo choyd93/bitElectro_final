@@ -23,7 +23,7 @@
  
  
  # 3. ERD 설계
- https://user-images.githubusercontent.com/69706762/138577537-0d04f924-6112-4ec3-92db-ae1bbcc5c3d8.png
+![비트가전](https://user-images.githubusercontent.com/69706762/138577537-0d04f924-6112-4ec3-92db-ae1bbcc5c3d8.png)
  
  
  
