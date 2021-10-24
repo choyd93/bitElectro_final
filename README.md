@@ -21,8 +21,7 @@
 
 
 # 4. UI 레이아웃
-https://user-images.githubusercontent.com/69706762/138581803-710c3561-4a33-4901-9b78-ea8c89ca4e9d.png
- 
+<img width="599" alt="스크린샷 2021-10-13 오전 10 11 14" src="https://user-images.githubusercontent.com/69706762/138581803-710c3561-4a33-4901-9b78-ea8c89ca4e9d.png"> 
  
  
  # 4. 실행화면
