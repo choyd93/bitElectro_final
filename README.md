@@ -25,10 +25,10 @@
  
  
  # 4. 실행화면
-  + 쇼핑몰 기능
+  ## 쇼핑몰 기능
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/69706762/138582190-828060dc-c26c-4f95-8ec2-9a290b8f4be7.gif)
 
-  + 관리자 기능
+  ## 관리자 기능
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/69706762/138582213-849ebd01-ea40-4cb2-8f73-aaa07096de1a.gif)
 
    
